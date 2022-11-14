@@ -1,6 +1,6 @@
 import './App.css';
-import PropTypes from 'prop-types'
 import ShopItemFunc from '../src/components/ShopItemFunc'
+import className from '../src/styles/ShopItemFunc.css'
 
 function App() {
   
